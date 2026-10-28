@@ -27,7 +27,7 @@ Projekt skupia się na analizie danych z ubezpieczeń komunikacyjnych (auto insu
 
 1. **Sklonuj repozytorium:**
    ```bash
-   git clone [TWOJ_LINK_DO_GITHUB]
+   git clone https://github.com/XedDevi1/Auto-Insurance-Claims-Analysis.git
    cd nazwa-repozytorium
    ```
 
