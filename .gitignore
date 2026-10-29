@@ -1,0 +1,17 @@
+# Środowiska wirtualne
+venv/
+.venv/
+env/
+
+# Pamięć podręczna Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Punkty kontrolne Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pliki tymczasowe Gradio i systemu operacyjnego
+.gradio/
+.DS_Store
+Thumbs.db

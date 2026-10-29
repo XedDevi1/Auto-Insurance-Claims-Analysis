@@ -1,0 +1,1 @@
+# Pakiet źródłowy projektu Auto Insurance Claims Analysis (Etap 1)
